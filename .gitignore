@@ -1,0 +1,15 @@
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+runs/
+
+*.pt
+
+*.mp4
+*.avi
+
+.vscode/
+
+.idea/
