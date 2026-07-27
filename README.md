@@ -8,7 +8,6 @@ This project performs real-time object detection using YOLO11 and OpenCV.
 - Detects dogs
 - Detects birds
 - Object Tracking (IDs)
-- Saves annotated video
 
 ## Technologies
 
